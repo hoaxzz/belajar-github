@@ -2,4 +2,7 @@
 
 saya akan membuat isi branch baru
 
-  * membuat merge conflict
+text nya berbeda untuk melihat merge conflict
+
+  * text pertama ialah percobaah untuk membedakan text
+
