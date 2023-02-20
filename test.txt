@@ -5,20 +5,15 @@ saya akan membuat isi branch baru
 text nya berbeda untuk melihat merge conflict
 
   * text pertama ialah percobaah untuk membedakan text
-  * text 2 ppppp
-
+  * belajar itu asik dan menyenangkan
+  * progres 73%
 
 melakukan squashing changes
 
 hallo semua
 
-
-  
 proses melakukan fork
 
 pada akun lain
 
   * text 3 ini di tulis pada akun lain
-
-
-
