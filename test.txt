@@ -6,3 +6,7 @@ text nya berbeda untuk melihat merge conflict
 
   * text pertama ialah percobaah untuk membedakan text
   * text 2 ppppp
+  
+proses melakukan fork
+
+pada akun lain
