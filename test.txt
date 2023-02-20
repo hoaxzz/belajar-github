@@ -8,11 +8,17 @@ text nya berbeda untuk melihat merge conflict
   * text 2 ppppp
 
 
+melakukan squashing changes
+
+hallo semua
+
+
   
 proses melakukan fork
 
 pada akun lain
 
   * text 3 ini di tulis pada akun lain
+
 
 
